@@ -1,11 +1,11 @@
 #  AI to answer questions
 
-# Prerequisites and Installation
+## Prerequisites and Installation
 
-`pip install -r requirements.txt`
-`python questions.py <NameOfDataFolder>`
+- `pip install -r requirements.txt`
+- `python questions.py <NameOfDataFolder>`
 
-# Usage
+## Usage
 
 `
 $ python questions.py corpus
@@ -22,7 +22,7 @@ Neurons of one layer connect only to neurons of the immediately preceding and im
 
 `
 
-# Hint 
+## Hint 
 
 - You can use test folder of corpus i attached or use your other data 
  
