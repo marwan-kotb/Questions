@@ -7,7 +7,7 @@
 
 ## Usage
 
-`
+```
 $ python questions.py corpus
 Query: What are the types of supervised learning?
 Types of supervised learning algorithms include Active learning , classification and regression.
@@ -20,7 +20,7 @@ $ python questions.py corpus
 Query: How do neurons connect in a neural network?
 Neurons of one layer connect only to neurons of the immediately preceding and immediately following layers.
 
-`
+```
 
 ## Hint 
 
